@@ -1,0 +1,15 @@
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\bin\Release\net10.0\GithubActions.exe
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\bin\Release\net10.0\GithubActions.deps.json
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\bin\Release\net10.0\GithubActions.runtimeconfig.json
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\bin\Release\net10.0\GithubActions.dll
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\bin\Release\net10.0\GithubActions.pdb
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\GithubActions.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\GithubActions.AssemblyInfoInputs.cache
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\GithubActions.AssemblyInfo.cs
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\GithubActions.csproj.CoreCompileInputs.cache
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\GithubActions.sourcelink.json
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\GithubActions.dll
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\refint\GithubActions.dll
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\GithubActions.pdb
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\GithubActions.genruntimeconfig.cache
+D:\WORK\s37374\warp-lab07-praca-wpolna\GithubActions\obj\Release\net10.0\ref\GithubActions.dll
